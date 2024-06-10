@@ -24,3 +24,5 @@ Data Cleaning: Ensured data accuracy and consistency.
 Dashboard Creation: Integrated various data points into a cohesive and interactive dashboard.
 Outcome
 The dashboard provided actionable insights, helping the coffee shop make data-driven decisions to optimize inventory, target key markets, and enhance customer satisfaction.
+
+***STILL ONGOING.***
